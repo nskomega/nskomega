@@ -1,20 +1,25 @@
-### Hi there 👋, Wazzup?!
-👨‍💻 I am an ios software developer
+# Hi there 👋, Wazzup?!
+***
+### 👨‍💻 I am an ios software developer
+***
 📫 I work for AppyClick
+***
+💬 Telegram: @nskom
+***
 💼 Technology stack:
 - Swift
-— Layout: UIKit(programmatically), SnapKit, TiniConstraints
+- Layout: UIKit(programmatically), SnapKit, TiniConstraints
 - SwiftUI
-— Network: Rest API, URLSession, Alamofire, Kingfisher, Firebase
-— Architecture: MVC, MVP, MVVM, Viper, Clean
-— Databases: CoreData, Realm, Firebase
+- Network: Rest API, URLSession, Alamofire, Kingfisher, Firebase
+- Architecture: MVC, MVP, MVVM, Viper, Clean
+- Databases: CoreData, Realm, Firebase
 - KeyChain, UserDefaults
-— Notification: Firebase, 
-— Location: CoreLocation, MapKit
-— Style: SwiftLint, R.Swift
-— Swift Package Manager(SMP), СocoaPods
-— GitFlow, GitHub
-— RxSwift, RxFlow
+- Notification: Firebase
+- Location: CoreLocation, MapKit
+- Style: SwiftLint, R.Swift
+- Swift Package Manager(SMP), СocoaPods
+- GitFlow, GitHub
+- RxSwift, RxFlow
 - Stripe
 - SkeletonView
 - Firebase Cloud Messaging
@@ -24,7 +29,7 @@
 - Postman
 - UnitTests, TDD, UITests
 - Gitlab CI + Fastlane + CD Firebase
-💬 Telegram: @nskom
+***
 <!--
 **nskomega/nskomega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
