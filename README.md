@@ -8,10 +8,10 @@
 ***
 💼 Technology stack:
 - Swift
-- Layout: UIKit(programmatically), SnapKit, TiniConstraints
+- Layout: UIKit(programmatically), SnapKit, TinyConstraints
 - SwiftUI
 - Network: Rest API, URLSession, Alamofire, Kingfisher, Firebase
-- Architecture: MVC, MVP, MVVM, Viper, Clean
+- Architecture: MVC, MVP, MVVM, RIBs
 - Databases: CoreData, Realm, Firebase
 - KeyChain, UserDefaults
 - Notification: Firebase
