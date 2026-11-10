@@ -51,7 +51,7 @@
 
 ### Контакты
 
-- **Telegram:** [@theMikhailDanilov](https://t.me/theMikhailDanilov)
+- 💬 **Telegram**: [https://t.me/theMikhailDanilov/](https://t.me/theMikhailDanilov/)
 - **Email:** [2588000nsk@gmail.com](mailto:2588000nsk@gmail.com)
 - **Телефон:** +7 (962) 838-80-00
 
