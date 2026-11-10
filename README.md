@@ -32,12 +32,11 @@
 
 ### Примеры iOS-кода
 
-В профиле также сохранены более ранние iOS-проекты, учебные работы и тестовые задания. Они показывают отдельные решения на Swift; их не следует воспринимать как каталог текущих коммерческих продуктов.
+Ниже — более ранние примеры отдельных решений на Swift. Учебные работы и тестовые задания помечены в описаниях соответствующих репозиториев.
 
 | Проект | Что можно посмотреть |
 | --- | --- |
 | [Food](https://github.com/nskomega/Food) | UIKit, разделение интерфейса и логики через Presenter |
-| [Pizza](https://github.com/nskomega/Pizza) | SwiftUI, каталог, корзина, работа с Firebase |
 | [OmPick4es](https://github.com/nskomega/OmPick4es) | UIKit, RxSwift, работа с изображениями и Realm |
 | [GoogleAnaliticsSPM](https://github.com/nskomega/GoogleAnaliticsSPM) | Упаковка Google Analytics SDK для Swift Package Manager |
 
